@@ -7,7 +7,7 @@ This variant has a slight 0.5 degree angle, which was the smallest angle I could
 
 **This model was designed to be compatible with all the other current parts of the 0.7J hotswap 3DP design (including the map!)**
 
-**NOTE: This has NOT been tested yet.**
+**NOTE: This has NOT been tested yet. Print at your own risk.**
 
 Included here are only the "Left Half" and "Right Half" models. To get the other parts necessary for the full build (e.g. key separators, LED spacers, knob spacer, etc.), go to [Pylon's repository of the 3D Printed Parts](https://github.com/bluepylons/Boston/tree/main/Boston%20-%20Current%20design/3D%20printed%20version).
 
