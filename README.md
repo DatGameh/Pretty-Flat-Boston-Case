@@ -10,7 +10,7 @@ This variant has a slight 0.5 degree angle, which was the smallest angle I could
 
 Included here are only the "Left Half" and "Right Half" models. To get the other parts necessary for the full build (e.g. key separators, LED spacers, knob spacer, etc.), go to [Pylon's repository of the 3D Printed Parts](https://github.com/bluepylons/Boston/tree/main/Boston%20-%20Current%20design/3D%20printed%20version).
 
-I may upload the Fusion 360 source file in the future when I am sure I've credited the creator of each part separately.
+I may upload the Fusion 360 source file in the future when I am sure I've credited the creator of every other part properly.
 
 <img width="938" alt="Pretty Flat Boston" src="https://github.com/DatGameh/Pretty-Flat-Boston-Case/assets/71962500/2fd783ab-85cc-4bd2-b95d-c641db354e2e">
 
