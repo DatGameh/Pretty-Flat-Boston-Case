@@ -12,12 +12,12 @@ Included here are only the "Left Half" and "Right Half" models. To get the other
 
 I may upload the Fusion 360 source file in the future when I am sure I've credited the creator of each part separately.
 
-<img width="674" alt="Image of Pretty Flat Boston" src="https://github.com/DatGameh/Pretty-Flat-Boston-Case/assets/71962500/f7cb782e-2756-4996-90c1-defb63b81f12">
+<img width="938" alt="Pretty Flat Boston" src="https://github.com/DatGameh/Pretty-Flat-Boston-Case/assets/71962500/2fd783ab-85cc-4bd2-b95d-c641db354e2e">
 
 <img width="938" alt="image" src="https://github.com/DatGameh/Pretty-Flat-Boston-Case/assets/71962500/5cb7e9fa-97fa-4220-9aa4-7bcdfd1ba6eb">
 
 
-<img width="938" alt="image" src="https://github.com/DatGameh/Pretty-Flat-Boston-Case/assets/71962500/439ae39b-f877-41f3-95d2-493181e39787">
+<img width="938" alt="Side View Comparison" src="https://github.com/DatGameh/Pretty-Flat-Boston-Case/assets/71962500/439ae39b-f877-41f3-95d2-493181e39787">
 
 <img width="938" alt="Internal View" src="https://github.com/DatGameh/Pretty-Flat-Boston-Case/assets/71962500/c535c998-89e6-48ed-87cb-e0a9ec0f6cd6">
 
