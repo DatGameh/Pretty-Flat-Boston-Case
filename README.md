@@ -5,6 +5,8 @@ I really like the design, but my wrists don't cope well with angled keyboards. A
 
 This variant has a slight 0.5 degree angle, which was the smallest angle I could get for clearance of parts without changing the height of the board itself.
 
+<img width="550" alt="image" src="https://github.com/DatGameh/Pretty-Flat-Boston-Case/assets/71962500/bc7f9204-71ee-41e6-855a-3d7c4a073620">
+
 **This model was designed to be compatible with all the other current parts of the 0.7J hotswap 3DP design (including the map!)**
 
 **NOTE: This has NOT been tested yet. Print at your own risk.**
