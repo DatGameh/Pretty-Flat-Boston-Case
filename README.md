@@ -19,7 +19,7 @@ I may upload the Fusion 360 source file in the future when I am sure I've credit
 
 <img width="938" alt="Side View Comparison" src="https://github.com/DatGameh/Pretty-Flat-Boston-Case/assets/71962500/439ae39b-f877-41f3-95d2-493181e39787">
 
-<img width="938" alt="Internal View" src="[https://github.com/DatGameh/Pretty-Flat-Boston-Case/assets/71962500/c535c998-89e6-48ed-87cb-e0a9ec0f6cd6](https://github.com/DatGameh/Pretty-Flat-Boston-Case/assets/71962500/a11b2199-a157-4c06-8fe7-84151750b048)">
+<img width="938" alt="Internal View" src="https://github.com/DatGameh/Pretty-Flat-Boston-Case/assets/71962500/a11b2199-a157-4c06-8fe7-84151750b048">
 
 # Licensing
 This derivation is released under the [CERN OHL-W](https://ohwr.org/cern_ohl_w_v2.txt) license.
