@@ -14,10 +14,10 @@ I may upload the Fusion 360 source file in the future when I am sure I've credit
 
 <img width="674" alt="Image of Pretty Flat Boston" src="https://github.com/DatGameh/Pretty-Flat-Boston-Case/assets/71962500/f7cb782e-2756-4996-90c1-defb63b81f12">
 
-<img width="907" alt="image" src="https://github.com/DatGameh/Pretty-Flat-Boston-Case/assets/71962500/5cb7e9fa-97fa-4220-9aa4-7bcdfd1ba6eb">
+<img width="938" alt="image" src="https://github.com/DatGameh/Pretty-Flat-Boston-Case/assets/71962500/5cb7e9fa-97fa-4220-9aa4-7bcdfd1ba6eb">
 
 
-<img width="669" alt="Angle comparison of current and this Boston variant" src="https://github.com/DatGameh/Pretty-Flat-Boston-Case/assets/71962500/6b42eb56-3b01-4284-8f13-dae4ef092193">
+<img width="938" alt="image" src="https://github.com/DatGameh/Pretty-Flat-Boston-Case/assets/71962500/439ae39b-f877-41f3-95d2-493181e39787">
 
 <img width="938" alt="Internal View" src="https://github.com/DatGameh/Pretty-Flat-Boston-Case/assets/71962500/c535c998-89e6-48ed-87cb-e0a9ec0f6cd6">
 
