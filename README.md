@@ -24,7 +24,7 @@ You may notice some of the screws protruding deep inside the case in the interna
 
 Included here are only the "Left Half" and "Right Half" models. To get the other parts necessary for the full build (e.g. key separators, LED spacers, knob spacer, etc.), go to [Pylon's repository of the 3D Printed Parts](https://github.com/bluepylons/Boston/tree/main/Boston%20-%20Current%20design/3D%20printed%20version).
 
-I may upload the Fusion 360 source file in the future when I am sure I've credited the creator of every other part properly.
+I'll upload the Fusion 360 source file in the future when I am sure I've credited the creator of every other part properly.
 
 # Licensing
 This derivation is released under the [CERN OHL-W](https://ohwr.org/cern_ohl_w_v2.txt) license.
