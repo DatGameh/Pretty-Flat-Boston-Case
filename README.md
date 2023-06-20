@@ -5,7 +5,7 @@ I really like the design, but my wrists don't cope well with angled keyboards. A
 
 This variant has a slight 0.5 degree angle, which was the smallest angle I could get for clearance of parts without changing the height of the board itself.
 
-**This model was designed to be compatible with all the other current parts of the 0.7J hotswap 3DP design (including the map!)**
+**This model was designed to be compatible with all the other current parts of the 0.8J hotswap 3DP design (including the map!)**
 
 **NOTE: This has NOT been tested yet. Print at your own risk.**
 
