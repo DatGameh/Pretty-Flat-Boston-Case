@@ -22,7 +22,7 @@ This variant has a slight 0.5 degree angle, which was the smallest angle I could
 
 You may notice some of the screws protruding deep inside the case in the internal view, but this only applies to the four bottom corner screws. The other eight screws underneath aren't as long and shouldn't cause clearance issues.
 
-Included here are only the "Left Half" and "Right Half" models. To get the other parts necessary for the full build (e.g. key separators, LED spacers, knob spacer, etc.), go to [Pylon's repository of the 3D Printed Parts](https://github.com/bluepylons/Boston/tree/main/Boston%20-%20Current%20design/3D%20printed%20version).
+**Included here are only the "Left Half" and "Right Half" models**. To get the other parts necessary for the full build (e.g. key separators, LED spacers, knob spacer, etc.), go to [Pylon's repository of the 3D Printed Parts](https://github.com/bluepylons/Boston/tree/main/Boston%20-%20Current%20design/3D%20printed%20version).
 
 I'll upload the Fusion 360 source file in the future when I am sure I've credited the creator of every other part properly.
 
